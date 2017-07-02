@@ -36,11 +36,11 @@ pip install python-opencv
 
 ## TODO LIST
 ### 图像预处理
-1. 对于给定的图像进行如下操作
-  1.1 镜像，分别沿x方向中轴，沿y方向的中轴
-  1.2 旋转
-2. 编写对图像缩放函数，同时要保证对应的label区域的有效性
-3. 将图像中的label写成一个json文件
+1. 对于给定的图像进行如下操作  
+  1.1 镜像，分别沿x方向中轴，沿y方向的中轴  
+  1.2 旋转  
+2. 编写对图像缩放函数，同时要保证对应的label区域的有效性  
+3. 将图像中的label写成一个json文件  
 ```bash
 sign_labels = dict()
 sign_labels = {
@@ -48,7 +48,7 @@ sign_labels = {
   "label01":2,
 }
 ```
-4. 将图像信息和label信息组织成字典，存储在pkl中，具体的格式如下：
+4. 将图像信息和label信息组织成字典，存储在pkl中，具体的格式如下：  
 ```bash
 image_sampples = dict()
 image_sampples = {
