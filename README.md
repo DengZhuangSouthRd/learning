@@ -39,8 +39,9 @@ pip install python-opencv
 1. 对于给定的图像进行如下操作  
   1.1 镜像，分别沿x方向中轴，沿y方向的中轴  
   1.2 旋转  
-2. 编写对图像缩放函数，同时要保证对应的label区域的有效性  
-3. 将图像中的label写成一个json文件  
+  1.3 在图像中添加随机噪声  
+2. 编写对图像缩放函数，同时要保证对应的label区域的有效性  
+3. 将图像中的label写成一个json文件  
 ```bash
 sign_labels = dict()
 sign_labels = {
