@@ -6,6 +6,6 @@
   1.2 [AlexNet的可视化结构](http://ethereon.github.io/netscope/#/gist/e65799e70358c6782b1b)  
 2. Tensorflow教程  
   2.1 [极客学院Tensorflow教程](http://wiki.jikexueyuan.com/project/tensorflow-zh/)    
-  2.2 [Tensorflow中文社区](http://www.tensorfly.cn/)    
+  2.2 [Tensorflow中文社区](http://www.tensorfly.cn/)  
   2.3 [TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples)    
   2.4 [莫凡Python](https://morvanzhou.github.io/tutorials/machine-learning/tensorflow/)    
